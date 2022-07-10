@@ -6,7 +6,7 @@ This notebook implements a class in python for the stack, queue and dequeue data
 - Is implemented using Python Lists
 
 **Queues**
--Follows first in first out
+- Follows first in first out
 
 **Dequeue**
 - Flexible where elements can be added or removed from the start or end of data structure
